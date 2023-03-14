@@ -1,0 +1,14 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "Repository for linking to zenn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zenn"
+  ],
+  "author": "yuta4j1",
+  "license": "ISC"
+}
