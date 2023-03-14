@@ -10,5 +10,8 @@
     "zenn"
   ],
   "author": "yuta4j1",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.141"
+  }
 }
